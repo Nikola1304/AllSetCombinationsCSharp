@@ -1,0 +1,15 @@
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/bin/Debug/net6.0/AllSetCombinationsCSharp
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/bin/Debug/net6.0/AllSetCombinationsCSharp.deps.json
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/bin/Debug/net6.0/AllSetCombinationsCSharp.runtimeconfig.json
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/bin/Debug/net6.0/AllSetCombinationsCSharp.dll
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/bin/Debug/net6.0/ref/AllSetCombinationsCSharp.dll
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/bin/Debug/net6.0/AllSetCombinationsCSharp.pdb
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/AllSetCombinationsCSharp.csproj.AssemblyReference.cache
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/AllSetCombinationsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/AllSetCombinationsCSharp.AssemblyInfoInputs.cache
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/AllSetCombinationsCSharp.AssemblyInfo.cs
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/AllSetCombinationsCSharp.csproj.CoreCompileInputs.cache
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/AllSetCombinationsCSharp.dll
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/ref/AllSetCombinationsCSharp.dll
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/AllSetCombinationsCSharp.pdb
+/mnt/HDD/Stvari/development/rider/AllSetCombinationsCSharp/AllSetCombinationsCSharp/obj/Debug/net6.0/AllSetCombinationsCSharp.genruntimeconfig.cache
